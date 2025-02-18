@@ -1,0 +1,27 @@
+{
+  "name": "proyect-random-str-msg",
+  "version": "1.0.0",
+  "description": "proyect random msg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selzl/proyect-random-str-msg.git"
+  },
+  "keywords": [],
+  "author": "selene zarate <renardrou320@gmai.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selzl/proyect-random-str-msg/issues"
+  },
+  "homepage": "https://github.com/selzl/proyect-random-str-msg#readme",
+  "bin": {
+    "proyect-random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
